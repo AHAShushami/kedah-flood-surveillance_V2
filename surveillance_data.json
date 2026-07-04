@@ -1,5 +1,5 @@
 {
-  "last_updated": "04/07/2026 05:34 PM",
+  "last_updated": "04/07/2026 07:15 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -3316,8 +3316,8 @@
         "distance_m": 2889.6,
         "status": "Error",
         "level": 54.87,
-        "trend": "Receding",
-        "time": "05/07/2026 01:15"
+        "trend": "No Change",
+        "time": "05/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5508001_",
@@ -3415,8 +3415,8 @@
         "distance_m": 3852.4,
         "status": "Error",
         "level": 54.87,
-        "trend": "Receding",
-        "time": "05/07/2026 01:15"
+        "trend": "No Change",
+        "time": "05/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3426,7 +3426,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "05/07/2026 01:15"
+        "time": "05/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -3712,8 +3712,8 @@
         "distance_m": 3852.4,
         "status": "Error",
         "level": 54.87,
-        "trend": "Receding",
-        "time": "05/07/2026 01:15"
+        "trend": "No Change",
+        "time": "05/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3723,7 +3723,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "05/07/2026 01:15"
+        "time": "05/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -4009,8 +4009,8 @@
         "distance_m": 382.0,
         "status": "Error",
         "level": 54.87,
-        "trend": "Receding",
-        "time": "05/07/2026 01:15"
+        "trend": "No Change",
+        "time": "05/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -4020,7 +4020,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "05/07/2026 01:15"
+        "time": "05/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -7550,7 +7550,7 @@
         "status": "No Rainfall",
         "today_mm": 0.5,
         "1h_mm": 0.5,
-        "3h_mm": 0.5,
+        "3h_mm": 0.0,
         "time": "05/07/2026 00:45"
       },
       "nearest_hotspot": {
@@ -7772,7 +7772,7 @@
         "status": "Error",
         "level": null,
         "trend": "Rising",
-        "time": "05/07/2026 00:00"
+        "time": "05/07/2026 01:15"
       },
       "nearest_rf": {
         "id": "6205481_",
@@ -7782,7 +7782,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "05/07/2026 00:00"
+        "time": "05/07/2026 01:15"
       },
       "nearest_hotspot": {
         "location": "Kg. Derang",
@@ -7881,7 +7881,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "05/07/2026 00:00"
+        "time": "05/07/2026 01:15"
       },
       "nearest_hotspot": {
         "location": "Kg Jelutong",
@@ -8046,7 +8046,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "05/07/2026 00:00"
+        "time": "05/07/2026 01:15"
       },
       "nearest_hotspot": {
         "location": "Kg. Malau/Kg. Lahar/Kg. Paya Tok Teh",
@@ -9256,8 +9256,8 @@
         "distance_m": 1073147.6,
         "status": "Error",
         "level": 54.87,
-        "trend": "Receding",
-        "time": "05/07/2026 01:15"
+        "trend": "No Change",
+        "time": "05/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "27350",
@@ -10362,13 +10362,30 @@
       "district": "Baling",
       "wl_level": 54.87,
       "wl_status": "Error",
-      "wl_trend": "Receding",
-      "wl_time": "05/07/2026 01:15",
+      "wl_trend": "No Change",
+      "wl_time": "05/07/2026 01:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
       "rf_1h": null,
       "rf_3h": null,
       "rf_time": ""
+    },
+    {
+      "id": "6205481_",
+      "name": "Sg. Padang Terap di Kg. Kubu",
+      "type": "RF,WL",
+      "latitude": 6.268778,
+      "longitude": 100.5356,
+      "district": "Padang Terap",
+      "wl_level": null,
+      "wl_status": "Error",
+      "wl_trend": "Rising",
+      "wl_time": "05/07/2026 01:15",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "05/07/2026 01:15"
     },
     {
       "id": "6204180_",
@@ -10826,7 +10843,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 0.5,
       "rf_1h": 0.5,
-      "rf_3h": 0.5,
+      "rf_3h": 0.0,
       "rf_time": "05/07/2026 00:45"
     },
     {
@@ -11433,7 +11450,7 @@
       "district": "Padang Terap",
       "wl_level": 98.54,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "Rising",
       "wl_time": "05/07/2026 00:00",
       "rf_status": "No Rainfall",
       "rf_today": 1.0,
@@ -11447,23 +11464,6 @@
       "type": "RF,WL",
       "latitude": 6.242,
       "longitude": 100.7658,
-      "district": "Padang Terap",
-      "wl_level": null,
-      "wl_status": "Error",
-      "wl_trend": "Rising",
-      "wl_time": "05/07/2026 00:00",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "05/07/2026 00:00"
-    },
-    {
-      "id": "6205481_",
-      "name": "Sg. Padang Terap di Kg. Kubu",
-      "type": "RF,WL",
-      "latitude": 6.268778,
-      "longitude": 100.5356,
       "district": "Padang Terap",
       "wl_level": null,
       "wl_status": "Error",
@@ -12510,7 +12510,7 @@
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "05/07/2026 01:15"
+      "rf_time": "05/07/2026 01:45"
     },
     {
       "id": "26172",
