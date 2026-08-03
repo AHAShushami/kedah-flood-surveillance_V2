@@ -1,5 +1,5 @@
 {
-  "last_updated": "03/08/2026 05:26 PM",
+  "last_updated": "03/08/2026 07:06 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -618,9 +618,9 @@
         "name": "Sg. Kulim di Kg. Dusun (F2)",
         "distance_m": 1547.7,
         "status": "No Rainfall",
-        "today_mm": 0.5,
+        "today_mm": 0.0,
         "1h_mm": 0.0,
-        "3h_mm": 0.5,
+        "3h_mm": 0.0,
         "time": "04/08/2026 00:45"
       },
       "nearest_hotspot": {
@@ -2105,7 +2105,7 @@
         "status": "Light",
         "today_mm": 1.0,
         "1h_mm": 1.0,
-        "3h_mm": 1.0,
+        "3h_mm": 0.0,
         "time": "03/08/2026 16:30"
       },
       "nearest_hotspot": {
@@ -2664,9 +2664,9 @@
         "name": "Sek.Keb. Gulau (F2)",
         "distance_m": 1535.1,
         "status": "No Rainfall",
-        "today_mm": 0.5,
+        "today_mm": 0.0,
         "1h_mm": 0.0,
-        "3h_mm": 0.5,
+        "3h_mm": 0.0,
         "time": "04/08/2026 00:45"
       },
       "nearest_hotspot": {
@@ -4349,7 +4349,7 @@
         "status": "Light",
         "today_mm": 1.0,
         "1h_mm": 1.0,
-        "3h_mm": 1.0,
+        "3h_mm": 0.0,
         "time": "03/08/2026 16:30"
       },
       "nearest_hotspot": {
@@ -4415,7 +4415,7 @@
         "status": "Light",
         "today_mm": 1.0,
         "1h_mm": 1.0,
-        "3h_mm": 1.0,
+        "3h_mm": 0.0,
         "time": "03/08/2026 16:30"
       },
       "nearest_hotspot": {
@@ -6954,9 +6954,9 @@
         "name": "Sg. Kulim di Kg. Dusun (F2)",
         "distance_m": 644.5,
         "status": "No Rainfall",
-        "today_mm": 0.5,
+        "today_mm": 0.0,
         "1h_mm": 0.0,
-        "3h_mm": 0.5,
+        "3h_mm": 0.0,
         "time": "04/08/2026 00:45"
       },
       "nearest_hotspot": {
@@ -10994,9 +10994,9 @@
       "wl_trend": "No Change",
       "wl_time": "04/08/2026 00:45",
       "rf_status": "No Rainfall",
-      "rf_today": 0.5,
+      "rf_today": 0.0,
       "rf_1h": 0.0,
-      "rf_3h": 0.5,
+      "rf_3h": 0.0,
       "rf_time": "04/08/2026 00:45"
     },
     {
@@ -11472,7 +11472,7 @@
       "rf_status": "Light",
       "rf_today": 1.0,
       "rf_1h": 1.0,
-      "rf_3h": 1.0,
+      "rf_3h": 0.0,
       "rf_time": "03/08/2026 16:30"
     },
     {
@@ -12507,9 +12507,9 @@
       "wl_trend": "Stable",
       "wl_time": "",
       "rf_status": "No Rainfall",
-      "rf_today": 0.5,
+      "rf_today": 0.0,
       "rf_1h": 0.0,
-      "rf_3h": 0.5,
+      "rf_3h": 0.0,
       "rf_time": "04/08/2026 01:00"
     },
     {
@@ -13408,9 +13408,9 @@
       "wl_trend": "Stable",
       "wl_time": "",
       "rf_status": "No Rainfall",
-      "rf_today": 1.0,
+      "rf_today": 0.5,
       "rf_1h": 0.5,
-      "rf_3h": 1.0,
+      "rf_3h": 0.0,
       "rf_time": "04/08/2026 00:45"
     },
     {
@@ -13444,7 +13444,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 0.5,
       "rf_1h": 0.5,
-      "rf_3h": 0.5,
+      "rf_3h": 0.0,
       "rf_time": "04/08/2026 00:45"
     },
     {
@@ -13476,9 +13476,9 @@
       "wl_trend": "Stable",
       "wl_time": "",
       "rf_status": "No Rainfall",
-      "rf_today": 0.5,
+      "rf_today": 0.0,
       "rf_1h": 0.0,
-      "rf_3h": 0.5,
+      "rf_3h": 0.0,
       "rf_time": "04/08/2026 00:45"
     },
     {
@@ -13546,7 +13546,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 12.5,
       "rf_1h": 0.0,
-      "rf_3h": 3.0,
+      "rf_3h": 0.0,
       "rf_time": "03/08/2026 20:30"
     },
     {
