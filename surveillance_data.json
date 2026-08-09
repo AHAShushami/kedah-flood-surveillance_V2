@@ -1,5 +1,5 @@
 {
-  "last_updated": "09/08/2026 11:29 AM",
+  "last_updated": "09/08/2026 11:58 AM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -346,7 +346,7 @@
         "distance_m": 783.7,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -412,7 +412,7 @@
         "distance_m": 1854.0,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -775,7 +775,7 @@
         "distance_m": 1764.9,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -841,7 +841,7 @@
         "distance_m": 3193.6,
         "status": "Normal",
         "level": 7.23,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "09/08/2026 18:30"
       },
       "nearest_rf": {
@@ -1204,7 +1204,7 @@
         "distance_m": 8741.0,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -1798,7 +1798,7 @@
         "distance_m": 3953.5,
         "status": "Normal",
         "level": 64.97,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -2458,7 +2458,7 @@
         "distance_m": 1065.0,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -2722,7 +2722,7 @@
         "distance_m": 13435.3,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -2755,7 +2755,7 @@
         "distance_m": 4299.2,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -2986,7 +2986,7 @@
         "distance_m": 4187.5,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -5131,7 +5131,7 @@
         "distance_m": 8749.3,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -5197,7 +5197,7 @@
         "distance_m": 3492.8,
         "status": "Normal",
         "level": 7.23,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "09/08/2026 18:30"
       },
       "nearest_rf": {
@@ -5329,7 +5329,7 @@
         "distance_m": 3650.1,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -5461,7 +5461,7 @@
         "distance_m": 8267.9,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8167,7 +8167,7 @@
         "distance_m": 5438.9,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8200,7 +8200,7 @@
         "distance_m": 7608.8,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8233,7 +8233,7 @@
         "distance_m": 6464.7,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8365,7 +8365,7 @@
         "distance_m": 4628.7,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8398,7 +8398,7 @@
         "distance_m": 5490.9,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8431,7 +8431,7 @@
         "distance_m": 4401.6,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -8629,7 +8629,7 @@
         "distance_m": 3700.4,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -9289,7 +9289,7 @@
         "distance_m": 5785.5,
         "status": "Normal",
         "level": 1.7,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -9487,7 +9487,7 @@
         "distance_m": 8607.1,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -9619,7 +9619,7 @@
         "distance_m": 2290.6,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -9652,7 +9652,7 @@
         "distance_m": 4990.4,
         "status": "Normal",
         "level": 2.47,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "09/08/2026 19:15"
       },
       "nearest_rf": {
@@ -10515,7 +10515,7 @@
       "district": "Kubang Pasu",
       "wl_level": 64.97,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Rising",
       "wl_time": "09/08/2026 19:15",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10702,7 +10702,7 @@
       "district": "Padang Terap",
       "wl_level": 30.2,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "Rising",
       "wl_time": "09/08/2026 19:15",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10719,7 +10719,7 @@
       "district": "Padang Terap",
       "wl_level": 18.04,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "09/08/2026 19:15",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10736,7 +10736,7 @@
       "district": "Padang Terap",
       "wl_level": 25.03,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "Receding",
       "wl_time": "09/08/2026 19:15",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10753,7 +10753,7 @@
       "district": "Pendang",
       "wl_level": 1.7,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "09/08/2026 19:15",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11042,7 +11042,7 @@
       "district": "Yan",
       "wl_level": 2.47,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "09/08/2026 19:15",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11059,7 +11059,7 @@
       "district": "Kuala Muda",
       "wl_level": 0.12,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "Receding",
       "wl_time": "09/08/2026 19:10",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11280,7 +11280,7 @@
       "district": "Kuala Muda",
       "wl_level": 7.23,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Receding",
       "wl_time": "09/08/2026 18:30",
       "rf_status": "No Rainfall",
       "rf_today": 4.0,
