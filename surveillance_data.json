@@ -1,5 +1,5 @@
 {
-  "last_updated": "14/08/2026 05:52 PM",
+  "last_updated": "14/08/2026 06:54 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -13511,7 +13511,7 @@
       "wl_time": "",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
-      "rf_1h": 0.0,
+      "rf_1h": null,
       "rf_3h": 0.0,
       "rf_time": "14/08/2026 00:15"
     },
